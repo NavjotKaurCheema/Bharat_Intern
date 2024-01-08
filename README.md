@@ -1,2 +1,2 @@
 # Bharat_Intern
-Machine LearningProjects made during Internship at Bharat Intern.
+Machine Learning Projects made during Internship at Bharat Intern.
